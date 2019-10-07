@@ -306,7 +306,7 @@ body.active .success-message__title, body.active .success-message__content {
   width: 200px;
   border-radius: 6px;
   background-color: #40bfc1;
-  box-shadow: 0 5px 20px 0 rgba(245, 189, 35, 0.4);
+  box-shadow: 0 5px 20px 0 rgba(64, 191, 193, 0.4);
 }
 .section.first-section .row .col.first .req-btn span {
   color: #fff;
@@ -602,7 +602,7 @@ body.active .success-message__title, body.active .success-message__content {
   width: 200px;
   border-radius: 6px;
   background-color: #ff6f5e;
-  box-shadow: 0 5px 20px 0 rgba(89, 105, 212, 0.35);
+  box-shadow: 0 5px 20px 0 rgba(255, 111, 94, 0.35);
 }
 .section.third-section .row .col.first .req-btn span {
   color: #FFFFFF;
@@ -1104,7 +1104,7 @@ body.active .success-message__title, body.active .success-message__content {
   border: none;
   border-radius: 5px;
   background-color: #40bfc1;
-  box-shadow: 0 5px 20px 0 rgba(245, 189, 35, 0.4);
+  box-shadow: 0 5px 20px 0 rgba(64, 191, 193, 0.4);
   color: #FFFFFF;
   font-family: "Gotham Pro Medium";
   font-size: 15px;
