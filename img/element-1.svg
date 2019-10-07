@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="92px" viewBox="0 0 91 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>AABEB8D4-CC2C-4826-941F-CB50E77C5181</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="50" height="50" rx="4.62962963"></rect>
+        <filter x="-42.0%" y="-42.0%" width="184.0%" height="184.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="valo_landing" transform="translate(-163.000000, -1417.000000)" fill-rule="nonzero">
+            <g id="content" transform="translate(0.000000, 29.000000)">
+                <g id="преимущества" transform="translate(0.000000, 985.000000)">
+                    <g id="left_side" transform="translate(135.000000, 120.000000)">
+                        <g id="textblock">
+                            <g id="element-1" transform="translate(72.810479, 328.810479) rotate(-28.000000) translate(-72.810479, -328.810479) translate(47.810479, 303.810479)">
+                                <g id="Rectangle-8">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                                </g>
+                                <path d="M29.4939423,22.7148438 L20.828598,22.7148438 L23.2091675,18.1445312 L26.8755341,18.1445312 L29.4939423,22.7148438 Z M20.6937103,24.2382812 L29.9113007,24.2382812 L24.9843292,35.9417725 L20.6937103,24.2382812 Z M12,24.2382812 L19.0556183,24.2382812 L24.108551,37.9803619 L24.099823,38 L12,24.2382812 Z M21.4919281,18.1445312 L19.1113586,22.7148438 L12,22.7148438 L15.4521332,18.1445312 L21.4919281,18.1445312 Z M31.2504578,22.7148438 L28.6320496,18.1445312 L34.5486603,18.1445312 L38,22.7148438 L31.2504578,22.7148438 Z M25.7633057,37.9095459 L31.5845031,24.2382812 L38,24.2382812 L25.7990112,38 L25.7633057,37.9095459 Z M24.2382812,12 L25.7617188,12 L25.7617188,14.2851562 L24.2382812,14.2851562 L24.2382812,12 Z M20.9991913,13.7825012 L22.5226288,15.3059387 L21.4455109,16.3830566 L19.9220734,14.8596191 L20.9991913,13.7825012 Z M29.0625,13.7823028 L30.1396179,14.8594208 L28.6163788,16.3828583 L27.5392609,15.3057403 L29.0625,13.7823028 Z" id="Combined-Shape" fill="#5969D4"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
